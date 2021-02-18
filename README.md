@@ -7,6 +7,6 @@ This is my personal portfolio design.It consists of my projects, skills. I desig
 
 ![alt Skills](https://github.com/GeekyGeek3371/personal-portfolio/blob/main/screenshot/skills.png?raw=true)
 
-![alt Experience](https://github.com/GeekyGeek3371/personal-portfolio/blob/main/screenshot/work.png)
+![alt Experience](https://github.com/GeekyGeek3371/personal-portfolio/blob/main/screenshot/work.png?raw=true)
 
-![alt contact](
+![alt contact](https://github.com/GeekyGeek3371/personal-portfolio/blob/main/screenshot/contact.png?raw=true)
