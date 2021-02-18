@@ -1,0 +1,58 @@
+.conta{
+    text-align: center;
+}
+.content{
+    display: flex;
+}
+.leftx{
+    width: 70vw;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 50px;
+    margin-top: 68px;
+    box-shadow: #CAD5E2 5px 5px 5px 5px;
+}
+.Message{
+    width: 48vw;
+    height: 300px;
+    
+    text-align: start;
+}
+.rightx{
+    width: 30vw;
+    margin-top: 70px;
+    box-shadow: #CAD5E2 5px 5px 5px 5px;
+    padding: 50px;
+}
+.Submit{
+    width: 70px;
+    font-size: medium;
+    transition: 0.3s ease-in-out;
+}
+.Submit:hover{
+    background-color:#CAD5E2 ;
+}
+::-webkit-input-placeholder {
+    text-align:start
+ }
+ .leftx input{
+     padding: 3px;
+    margin: 10px;
+    border-width: 1px;
+    border-radius: 5px;
+ }
+ textarea{
+    border-width: 1px;
+    border-radius: 5px;
+    
+ }
+ .leftx .Name{
+    margin-right: 136px;
+    width: 20vw;
+    height: 40px;
+    margin-bottom: 30px;
+ }
+ .leftx .Email{
+    width: 20vw;
+    height: 40px;
+ }

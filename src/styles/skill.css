@@ -1,0 +1,59 @@
+.skills{
+    display: flex;
+    z-index: 2;
+    height: 1000px;
+}
+.lefty{
+    padding-top: 2vw;
+    /* background-color: blue; */
+    width: 50vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    color: black;
+    padding-top: 60px;
+}
+.righty{
+    background-color: yellow;
+    width: 50vw;
+    padding-left: 2vw;
+    text-align: center;
+    color: whitesmoke;
+    background-image: url('../assets/experience.jpg');
+    background-size: cover;
+    padding-top: 50px;
+}
+div.righty h1{
+    font-size: 50px;
+    
+}
+.containers {
+    width: 100%; 
+    background-color: #ddd;
+    border: 2px solid;
+  }
+  .containers div{
+      height: 1px;
+      margin-bottom: 0.1px;
+  }
+  .skills {
+    text-align: left; 
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+    
+  }
+  .lefty p{
+      text-align: right;
+      margin-bottom: -14px;
+  }  
+  .lefty h1{
+      text-align: center;
+      font-size: 50px;
+  }
+  .html {width: 90%; background-color: blue;} 
+  .css {width: 80%; background-color: blue;} 
+  .js {width: 65%; background-color: blue;} 
+  .php {width: 60%; background-color: blue;} 
+  .python {width: 65%; background-color: blue;} 
+  .c {width: 65%; background-color: blue;} 
+  .react {width: 65%; background-color: blue;} 
+  .native {width: 65%; background-color: blue;} 

@@ -1,0 +1,7 @@
+.car{
+    width: '25rem'; 
+    height: '800px';
+}
+.car:hover{
+    box-shadow: 5px 5px 8px black;
+}
